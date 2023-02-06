@@ -40,3 +40,5 @@ export const BenefitsContainer = styled.div`
   row-gap: 1.25rem;
   margin-top: 4.125rem;
 `;
+
+
